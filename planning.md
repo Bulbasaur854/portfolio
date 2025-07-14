@@ -4,6 +4,8 @@
 
 [Color Hunt](https://colorhunt.co/)
 
+### Palette 1
+
 -   Background: #000000
 -   Text: #F5F5F5
 -   Primary: #9929EA
