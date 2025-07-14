@@ -2,6 +2,8 @@
 
 ## Colors
 
+[Color Hunt](https://colorhunt.co/)
+
 -   Background: #000000
 -   Text: #F5F5F5
 -   Primary: #9929EA
@@ -10,7 +12,7 @@
 
 ## Fonts
 
-### [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
+[Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 
 -   BigBlueTerm
 -   DepartureMono
